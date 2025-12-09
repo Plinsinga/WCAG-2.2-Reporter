@@ -1,0 +1,5 @@
+{
+  "name": "WCAG 2.2 AA Reporter",
+  "description": "Een applicatie om automatisch toegankelijkheidsrapporten te genereren op basis van URL's, conform WCAG 2.2 niveau AA richtlijnen.",
+  "requestFramePermissions": []
+}
